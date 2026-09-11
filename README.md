@@ -15,12 +15,12 @@ capabilities; federation and ordinary publishing must remain available without
 them. Public federated identity stays distinct from institutional identity unless
 a person explicitly links the accounts under policy.
 
-- [Consolidated ecosystem architecture](../fpsdc-architecture/docs/architecture/Consolidated-Ecosystem-Architecture.md)
-- [Dependency contract](../fpsdc-architecture/docs/architecture/Ecosystem-Dependency-Contract.md)
-- [Cross-pollination model](../fpsdc-architecture/docs/architecture/Cross-Pollination-and-Shared-Capabilities.md)
-- [Open-source-only policy](../fpsdc-architecture/docs/vision/11-Open-Source-Only-Policy.md)
-- [Commons architecture](../fpsdc-architecture/docs/vision/constitutional/Post-Secondary-Digital-Commons-Architecture.md)
-- [Federated social governance policy](../fpsdc-architecture/docs/fediverse/Federated-Social-Governance-Policy.md)
+- [Consolidated ecosystem architecture](../psdc-architecture/docs/architecture/Consolidated-Ecosystem-Architecture.md)
+- [Dependency contract](../psdc-architecture/docs/architecture/Ecosystem-Dependency-Contract.md)
+- [Cross-pollination model](../psdc-architecture/docs/architecture/Cross-Pollination-and-Shared-Capabilities.md)
+- [Open-source-only policy](../psdc-architecture/docs/vision/11-Open-Source-Only-Policy.md)
+- [Commons architecture](../psdc-architecture/docs/vision/constitutional/Post-Secondary-Digital-Commons-Architecture.md)
+- [Federated social governance policy](../psdc-architecture/docs/fediverse/Federated-Social-Governance-Policy.md)
 
 ## Layout
 
